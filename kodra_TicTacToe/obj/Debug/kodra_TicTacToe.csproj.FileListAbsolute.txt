@@ -1,0 +1,30 @@
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\bin\Debug\kodra_TicTacToe.exe.config
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\bin\Debug\kodra_TicTacToe.exe
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\bin\Debug\kodra_TicTacToe.pdb
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\MainWindow.g.cs
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\App.g.cs
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe_MarkupCompile.cache
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe_MarkupCompile.lref
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\MainWindow.baml
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.g.resources
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.Properties.Resources.resources
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.csproj.GenerateResource.cache
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.exe
+C:\Users\besia\Documents\School\ITDEV115\Assignment6\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.pdb
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\bin\Debug\kodra_TicTacToe.exe.config
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\bin\Debug\kodra_TicTacToe.exe
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\bin\Debug\kodra_TicTacToe.pdb
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.csprojAssemblyReference.cache
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\MainWindow.g.cs
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\App.g.cs
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe_MarkupCompile.cache
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe_MarkupCompile.lref
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\MainWindow.baml
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.g.resources
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.Properties.Resources.resources
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.csproj.GenerateResource.cache
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.csproj.CoreCompileInputs.cache
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.exe
+D:\School\Spring 2018\C#\kodra_TicTacToe\kodra_TicTacToe\kodra_TicTacToe\obj\Debug\kodra_TicTacToe.pdb
